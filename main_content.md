@@ -106,4 +106,4 @@ IGBT综合了电力晶体管和电力场效应晶体管的优点，具有输入�
 
 电力电子变换器中，电压与电流往往都是非正弦波形。
 
-$$ U_km=\cfrac{2}{T} \times \sqar[2]{[\int_t_0^t_0+T u(t)cos(k\omega t) dt]^2 + [\int_t_0^t_0+T u(t) sin(k\omega t) dt]^2} $$
+$$ U_km=\cfrac{2}{T} \times \sqar[2]{[\int_(t_0) ^(t_0)+T u(t)cos(k\omega t) dt]^2 + [\int_(t_0) ^(t_0)+T u(t) sin(k\omega t) dt]^2} $$
