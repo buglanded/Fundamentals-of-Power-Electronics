@@ -112,7 +112,7 @@ $$ U_{km} = \cfrac{2}{T} \sqrt{[\int_{t_0}^{t_0+T} u(t)cos(k\omega t) dt]^2 + [\
 
 $$
 \begin{aligned}
-U &= \sqrt{\cfrac{1}{T} \int_{t_0}^{t_0+T} u^2 (t) \, dt}, \\
-I &= \sqrt{\cfrac{1}{T} \int_{t_0}^{t_0+T} i^2 (t) \, dt}.
+U &= \sqrt{\cfrac{1}{T} \int_{t_0}^{t_0+T} u^2 (t) \ dt} \\
+I &= \sqrt{\cfrac{1}{T} \int_{t_0}^{t_0+T} i^2 (t) \ dt}
 \end{aligned}
 $$
