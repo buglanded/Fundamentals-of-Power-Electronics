@@ -111,7 +111,7 @@ $$ U_{km} = \cfrac{2}{T} \sqrt{[\int_{t_0}^{t_0+T} u(t)cos(k\omega t) dt]^2 + [\
 电压电流有效值如下：
 
 $$
-\left \{ 
+\left 
 \begin{array}{b}
   U = \sqrt{\cfrac{1}{T} \int_{t_0}^{t_0+T} u^2 (t) dt \\
   I = \sqrt{\cfrac{1}{T} \int_{t_0}^{t_0+T} i^2 (t) dt 
